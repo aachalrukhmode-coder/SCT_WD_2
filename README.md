@@ -1,7 +1,7 @@
 # SCT_WD_2
 ##Calculator Web Application
 
-This project is a responsive calculator built using **HTML, CSS, and JavaScript** as part of the SkillCraft Technology Web Development Internship.
+This project is a responsive calculator built using **HTML, CSS and JavaScript** as part of the SkillCraft Technology Web Development Internship.
 
 ### Features
 - Modern calculator interface with responsive design
